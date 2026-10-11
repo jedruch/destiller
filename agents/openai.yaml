@@ -1,0 +1,6 @@
+interface:
+  display_name: "Destiller"
+  short_description: "Compress writing without losing material content"
+  default_prompt: "Use $destiller to compress this draft without losing any material information."
+policy:
+  allow_implicit_invocation: false

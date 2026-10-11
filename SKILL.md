@@ -1,6 +1,6 @@
 ---
 name: destiller
-description: Use only when the user explicitly invokes /destiller to compress a draft while preserving all material content.
+description: Use only when the user explicitly invokes destiller to compress a draft while preserving all material content.
 argument-hint: "[--tight|--keep-tone] <draft text or file path>"
 disable-model-invocation: true
 ---
